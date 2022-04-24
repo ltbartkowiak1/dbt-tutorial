@@ -1,0 +1,5 @@
+
+target/
+dbt_packages/
+logs/
+learning-bigquery-dbt-a5b17d02b7a0.json
